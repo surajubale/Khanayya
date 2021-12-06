@@ -1,0 +1,44 @@
+.App {
+    text-align: center;
+  }
+  
+  body{
+    background-image: url("https://www.google.com/search?q=background+images&sxsrf=AOaemvK466C8sCIyIVj56fwr37tzCuReqw:1638806030250&tbm=isch&source=iu&ictx=1&fir=6biWA5hcSFquvM%252C0YhkbdsB8sWdIM%252C_%253BGM5UfQxGtdz0KM%252CQNklfQawUBkyDM%252C_%253BYVJU4EkuO-hGdM%252C0aKRK2RZxWjguM%252C_%253BUoBzqU8Fz3WgWM%252Ch7YZJuel2I-guM%252C_%253BRSuwYP4OUpBY1M%252CP0LlCE23eDTuyM%252C_%253BSKxlePyUmN1InM%252CfBszHcolsNw0_M%252C_%253Bv88-M_AJ_P6MCM%252CnrS8yXEy4V6zEM%252C_%253BA9kvak3svEPcHM%252CSMQCVAXlfuAwlM%252C_%253BfNbQDwgxoCAFyM%252Ck7Bz4ajU7kWnwM%252C_%253B6T0ZdDIuadOqtM%252CJt1EXotC6XQBtM%252C_%253BseO4x3ec-jaFjM%252CVBhN99_jMoH1jM%252C_%253BsiX01uAf5qVBSM%252CDTqzyg6TX3ruGM%252C_%253BX5SPShg4LsPnJM%252C4NUJRuxXT9xLGM%252C_%253BXkTy86-a6y7pAM%252CdzsFvM9TZc7ZGM%252C_%253Bmx0EcPhvyYSvhM%252CNQfSToeGcnsTtM%252C_%253Bg5mAtYSOAVmH-M%252CLAIZRd0gOwrSbM%252C_&vet=1&usg=AI4_-kR7UfNTq2jda3b-vIj2r_KutaDGKw&sa=X&ved=2ahUKEwitk6eaxM_0AhX1SWwGHbYfB2gQ9QF6BAgIEAE#imgrc=GM5UfQxGtdz0KM");
+  }
+  
+  .App-logo {
+    height: 40vmin;
+    pointer-events: none;
+  }
+  
+  @media (prefers-reduced-motion: no-preference) {
+    .App-logo {
+      animation: App-logo-spin infinite 20s linear;
+    }
+  }
+  
+  .App-header {
+    background-color: #282c34;
+    min-height: 100vh;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    font-size: calc(10px + 2vmin);
+    color: white;
+  }
+  
+  .App-link {
+    color: #61dafb;
+  }
+  
+  @keyframes App-logo-spin {
+    from {
+      transform: rotate(0deg);
+    }
+    to {
+      transform: rotate(360deg);
+    }
+  }
+  
+  

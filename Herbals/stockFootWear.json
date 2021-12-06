@@ -1,0 +1,40 @@
+[
+    {
+        "id":"123",
+        "name":"LEATHERED",
+        "image_url":"https://image.shutterstock.com/image-photo/pair-brown-leather-shoes-vintage-260nw-269442152.jpg",
+        "price": "400"
+    },
+    {
+        "id":"124",
+        "name":"FORMALS",
+        "image_url":"",
+        "price": "300"
+    },
+    {
+        "id":"125",
+        "name":"Trekk SHOES",
+        "price": "700"
+    },
+    {
+        "id":"126",
+        "name":"CROCS",
+        "price": "400"
+    },
+    {
+        "id":"127",
+        "name":"SNEAKERS",
+        "price": "200"
+    },
+    {
+        "id":"128",
+        "name":"WOODLANDS",
+        "price": "300"
+    },
+    {
+        "id":"129",
+        "name":"SPARX",
+        "price": "200"
+    }
+]
+
